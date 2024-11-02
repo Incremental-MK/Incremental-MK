@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning C++,H5,CSS and JavaScript
 - 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me?this is my e-mail:3761133498@qq.com
+- 📫 How to reach me?this is my e-mail : 3761133498@qq.com
 - 😄 Pronouns: a Joke creator?
 - ⚡ Fun fact: Nope
 
